@@ -1,7 +1,6 @@
 # EditTextDialog
 
-
-![参考实例](http://upload-images.jianshu.io/upload_images/2433593-b93daeab64ce9f8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![参考实例](http://upload-images.jianshu.io/upload_images/2433593-525407dc2fc69ad7?imageMogr2/auto-orient/strip)
 
 用到了接口的方法
 
@@ -22,4 +21,3 @@
                 Toast.LENGTH_SHORT).show();
     }
 ```
-
