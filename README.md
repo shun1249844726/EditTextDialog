@@ -1,6 +1,6 @@
 # EditTextDialog
 
-![参考实例](http://upload-images.jianshu.io/upload_images/2433593-525407dc2fc69ad7?imageMogr2/auto-orient/strip)
+![参考实例](http://img.blog.csdn.net/20140715164912727)
 
 用到了接口的方法
 
